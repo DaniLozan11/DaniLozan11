@@ -1,7 +1,11 @@
-<div align="center">
-  Muchas ganas de aprender cosas nuevas 🎁.
-  Realizar proyectos 👨‍💻.
-  Estudiante de desarrollo de Software💻.
+<h1>Hello I'm Daniel'👀</h1>
+
+<div>
+  <ul>
+    <li>Muchas ganas de aprender cosas nuevas🎁.</li>
+    <li>Realizar proyectos👨‍💻.</li>
+    <li>Estudiante de desarrollo de Software💻.</li>
+  </ul>
 </div>
 
 <div>
