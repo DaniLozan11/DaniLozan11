@@ -1,15 +1,17 @@
-<h1>Hello I'm Daniel'👀</h1>
+<h1>Hi I'm Daniel Lozano'👀</h1>
 
 <div>
   <ul>
+    <li>I'm student software developer.💻</li>
+    <li>This is the begin of one the best developers from Colombia.🐱‍👤</li>
+    <li>Siempre con buen animo y actitud.💯</li>
     <li>Muchas ganas de aprender cosas nuevas🎁.</li>
-    <li>Realizar proyectos👨‍💻.</li>
-    <li>Estudiante de desarrollo de Software💻.</li>
+    <li>Con muchas ganas de realizar proyectos👨‍💻.</li>
   </ul>
 </div>
 
 <div>
-  <h3>Languages and Skills✨</h3>
+  <h2>Languages and Skills👨‍💻</h2>
   <div>
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"
