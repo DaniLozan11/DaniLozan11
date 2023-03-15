@@ -5,8 +5,8 @@
     <li>I'm student software developer.💻</li>
     <li>This is the begin of one the best developers from Colombia.🐱‍👤</li>
     <li>Siempre con buen animo y actitud.💯</li>
-    <li>Muchas ganas de aprender cosas nuevas🎁.</li>
-    <li>Con muchas ganas de realizar proyectos👨‍💻.</li>
+    <li>I'm learning new things. </li>
+    <li>With very importants projects for do.😎</li>
   </ul>
 </div>
 
