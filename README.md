@@ -3,7 +3,6 @@
 <div>
   <ul>
     <li>I'm student software developer.💻</li>
-    <li>This is the begin of one the best developers from Colombia.🐱‍👤</li>
     <li>Siempre con buen animo y actitud.💯</li>
     <li>I'm learning new things. </li>
     <li>With very importants projects for do.😎</li>
